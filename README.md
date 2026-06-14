@@ -1,3 +1,3 @@
 # A211368_NELSON_LAB2
 
-This is my Android project.
+NUR HASMIZA BT ROSLAN (A211368)
